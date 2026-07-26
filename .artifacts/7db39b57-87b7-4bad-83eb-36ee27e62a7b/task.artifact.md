@@ -1,0 +1,3 @@
+- [/] Fix navigation route for About screen
+- [ ] Update AboutScreen resource usage
+- [ ] Verify fix by clicking "Tentang Aplikasi"
